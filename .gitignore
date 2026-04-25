@@ -1,0 +1,10 @@
+.git/
+kernel/.git/
+out/
+AnyKernel3/
+build.log
+bin/
+prebuilts/
+prebuilts-master/
+build/
+*.zip
